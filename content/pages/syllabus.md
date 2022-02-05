@@ -41,17 +41,102 @@ The learning goals for this course include:
 Grading
 -------
 
-| ASSIGNMENTS | PERCENTAGES |
-| --- | --- |
-| Thesis Topic and Elevator Pitch | 5 |
-| Central Hypothesis (3–5 Sentences) | 5 |
-| Hypothesis Revision and Signoff | 5 |
-| Rough Drafts of Thesis Prospectus and Outline | 10 |
-| Communications Lab Review | 10 |
-| Detailed Thesis Outline | 10 |
-| Thesis Introduction and Background Sections | 10 |
-| Writing, Rhetoric, and Professional Communication (WRAP) Review | 5 |
-| Final Prospectus | 40 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Thesis Topic and Elevator Pitch
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Central Hypothesis (3–5 Sentences)
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hypothesis Revision and Signoff
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rough Drafts of Thesis Prospectus and Outline
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Communications Lab Review
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Detailed Thesis Outline
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Thesis Introduction and Background Sections
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Writing, Rhetoric, and Professional Communication (WRAP) Review
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Prospectus
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 All assignments are due at 11:59PM on the day listed in the calendar. Please plan to submit your assignments at least 15 minutes early, in case of computer troubles.
 
@@ -60,18 +145,177 @@ All assignments are due at 11:59PM on the day listed in the calendar. Please pla
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction, Example Prospectus, Resources Available to You | &nbsp; |
-| 2 | Document Writing Tools: LaTeX / LyX, References, Collaborative Writing | &nbsp; |
-| 3 | Elevator Pitch Workshop: Describe Your Work in 30 Seconds or Less | &nbsp; |
-| 4 | Developing a Central Hypothesis for Your Thesis | Due: Thesis Topic and Elevator Pitch |
-| 5 | Outlining Your Prospectus and Thesis, Finding Background Materials | Due: Central Hypothesis |
-| 6 | Communication with Your Advisor, Reference Tracking Systems | Due: Hypothesis Revision and Signoff |
-| 7 | The NSE Communication Lab and the WRAP | Due: Rough Drafts of Thesis Prospectus and Outline |
-| 8 | Outlining Your Senior Thesis | &nbsp; |
-| 9 | Framing Your Thesis Introduction | Due: Communication Lab Reviews |
-| 10 | Framing Your Thesis Background Section | Due: Detailed Thesis Outline |
-| 11 | Writing an Impactful Abstract | Due: Thesis Introduction and Background Sections |
-| 12 | In-class One-on-One Meetings | Due: WRAP Review |
-| 13 | Sign Prospectus in Class, Relax! | Due: Final Thesis Prospectus
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Example Prospectus, Resources Available to You
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Document Writing Tools: LaTeX / LyX, References, Collaborative Writing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Elevator Pitch Workshop: Describe Your Work in 30 Seconds or Less
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Developing a Central Hypothesis for Your Thesis
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Thesis Topic and Elevator Pitch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Outlining Your Prospectus and Thesis, Finding Background Materials
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Central Hypothesis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Communication with Your Advisor, Reference Tracking Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Hypothesis Revision and Signoff
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The NSE Communication Lab and the WRAP
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Rough Drafts of Thesis Prospectus and Outline
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Outlining Your Senior Thesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Framing Your Thesis Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Communication Lab Reviews
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Framing Your Thesis Background Section
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Detailed Thesis Outline
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Writing an Impactful Abstract
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Thesis Introduction and Background Sections
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+In-class One-on-One Meetings
+{{< tdclose >}}
+{{< tdopen >}}
+Due: WRAP Review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Sign Prospectus in Class, Relax!
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Final Thesis Prospectus
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

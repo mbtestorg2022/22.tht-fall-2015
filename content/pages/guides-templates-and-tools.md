@@ -23,11 +23,60 @@ Sample Work from Prior 22.THT Students
 
 Prospectuses are courtesy of the students, used with permission; theses are © MIT.
 
-| STUDENTS | PROSPECTUS | THESIS |
-| --- | --- | --- |
-| Nicolas Lopez | [Development of a Nanoscale Magnetometer Through Utilization of the Nitrogen-Vacancy Defect in Diamonds (PDF)]({{< baseurl >}}/resources/mit22_thtf15_prosp_sam2) (Courtesy of Nicolas Lopez. Used with permission.) | [All-Optical Method of Nanoscale Magnetometry for Ensembles of Nitrogen-Vacancy Defects in Diamond (PDF)]({{< baseurl >}}/resources/mit22_thtf15_thesis_ex2) |
-| Minh Dinh | [Effect of Lattice Strain on Stoichiometry and Ionic Transport in Oxide Materials (Nd2NiO4+δ and ZrO2) (PDF - 1.5MB)]({{< baseurl >}}/resources/mit22_thtf15_prosp_sam3) (Courtesy of Minh Dinh. Used with permission.) | [First-principles Study of the Surfaces of Zirconium during Early Stages of Metal Oxidation (PDF)]({{< baseurl >}}/resources/mit22_thtf15_thesis_ex3) |
-| MIT student | [Design, Fabrication, Testing, and Application of a Sub-Wave length Microwave Lens (PDF)]({{< baseurl >}}/resources/mit22_thtf15_prosp_sam4) (Courtesy of MIT student. Used with permission.) | [Design, Fabrication, Testing, and Application of a Sub-Wavelength Microwave Lens (PDF)]({{< baseurl >}}/resources/mit22_thtf15_thesis_ex4) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENTS
+{{< thclose >}}
+{{< thopen >}}
+PROSPECTUS
+{{< thclose >}}
+{{< thopen >}}
+THESIS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nicolas Lopez
+{{< tdclose >}}
+{{< tdopen >}}
+[Development of a Nanoscale Magnetometer Through Utilization of the Nitrogen-Vacancy Defect in Diamonds (PDF)]({{< baseurl >}}/resources/mit22_thtf15_prosp_sam2) (Courtesy of Nicolas Lopez. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+[All-Optical Method of Nanoscale Magnetometry for Ensembles of Nitrogen-Vacancy Defects in Diamond (PDF)]({{< baseurl >}}/resources/mit22_thtf15_thesis_ex2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Minh Dinh
+{{< tdclose >}}
+{{< tdopen >}}
+[Effect of Lattice Strain on Stoichiometry and Ionic Transport in Oxide Materials (Nd2NiO4+δ and ZrO2) (PDF - 1.5MB)]({{< baseurl >}}/resources/mit22_thtf15_prosp_sam3) (Courtesy of Minh Dinh. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+[First-principles Study of the Surfaces of Zirconium during Early Stages of Metal Oxidation (PDF)]({{< baseurl >}}/resources/mit22_thtf15_thesis_ex3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MIT student
+{{< tdclose >}}
+{{< tdopen >}}
+[Design, Fabrication, Testing, and Application of a Sub-Wave length Microwave Lens (PDF)]({{< baseurl >}}/resources/mit22_thtf15_prosp_sam4) (Courtesy of MIT student. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+[Design, Fabrication, Testing, and Application of a Sub-Wavelength Microwave Lens (PDF)]({{< baseurl >}}/resources/mit22_thtf15_thesis_ex4)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Useful Technical Writing Tools
 ------------------------------

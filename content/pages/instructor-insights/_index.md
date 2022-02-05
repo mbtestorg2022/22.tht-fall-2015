@@ -58,17 +58,99 @@ Assessment
 
 ### Grade Breakdown
 
-| Assignment | Percentage |
-| --- | :-: |
-| Thesis Topic and Elevator Pitch | 5 |
-| Central Hypothesis (3–5 Sentences) | 5 |
-| Hypothesis Revision and Signoff | 5 |
-| Rough Drafts of Thesis Prospectus and Outline | 10 |
-| Communications Lab Review | 10 |
-| Detailed Thesis Outline | 10 |
-| Thesis Introduction and Background Sections | 10 |
-| Writing, Rhetoric, and Professional Communication (WRAP) Review | 5 |
-| Final Prospectus | 40 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignment
+{{< thclose >}}
+{{< thopen >}}
+Percentage
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Thesis Topic and Elevator Pitch
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Central Hypothesis (3–5 Sentences)
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hypothesis Revision and Signoff
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rough Drafts of Thesis Prospectus and Outline
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Communications Lab Review
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Detailed Thesis Outline
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Thesis Introduction and Background Sections
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Writing, Rhetoric, and Professional Communication (WRAP) Review
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Prospectus
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Information
 -------------------
