@@ -3,6 +3,7 @@ content_type: resource
 description: Example thesis written by a prior student of the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/c5186e454812e18034a211e912476db6_MIT22_THTF15_thesis_ex4.pdf
 file_type: application/pdf
+parent_uid: 1f51caf7-e077-166d-04b1-1917d03a488c
 resourcetype: Document
 title: Design, Fabrication, Testing, and Application of a Sub-Wavelength Microwave
   Lens

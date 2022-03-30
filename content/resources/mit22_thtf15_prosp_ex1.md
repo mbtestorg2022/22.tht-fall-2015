@@ -5,6 +5,7 @@ description: 'Example of student work: a senior thesis on treatment of neutron r
   simulations.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/6458e8288e0a4877c03b6851cd993083_MIT22_THTF15_prosp_ex1.pdf
 file_type: application/pdf
+parent_uid: c870da42-29dc-d989-7269-a35d128c2619
 resourcetype: Document
 title: Treatment of Neutron Resonance Elastic Scattering Using Multipole Representation
   of Cross Sections in Monte Carlo Simulations
